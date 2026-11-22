@@ -1,0 +1,7 @@
+{
+  "parent": "block/pane_side_alt",
+  "textures": {
+    "pane": "explodables:blocks/reinforcedglass",
+    "edge": "explodables:blocks/reinforcedglass_pane"
+  }
+}

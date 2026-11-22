@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "explodables:blocks/shapedcharge_side1",
+    "up": "explodables:blocks/shapedcharge_top",
+    "down": "explodables:blocks/shapedcharge_bottom",
+    "north": "explodables:blocks/shapedcharge_side1",
+    "south": "explodables:blocks/shapedcharge_side1",
+    "west": "explodables:blocks/shapedcharge_side2",
+    "east": "explodables:blocks/shapedcharge_side2"
+  }
+}

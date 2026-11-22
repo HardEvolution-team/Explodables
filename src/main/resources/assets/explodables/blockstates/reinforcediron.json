@@ -1,0 +1,46 @@
+{
+  "variants": {
+    "type=0": {
+      "model": "explodables:reinforcediron_0"
+    },
+    "type=1": {
+      "model": "explodables:reinforcediron_1"
+    },
+    "type=2": {
+      "model": "explodables:reinforcediron_2"
+    },
+    "type=3": {
+      "model": "explodables:reinforcediron_3"
+    },
+    "type=4": {
+      "model": "explodables:reinforcediron_4"
+    },
+    "type=5": {
+      "model": "explodables:reinforcediron_5"
+    },
+    "type=6": {
+      "model": "explodables:reinforcediron_6"
+    },
+    "type=7": {
+      "model": "explodables:reinforcediron_7"
+    },
+    "type=8": {
+      "model": "explodables:reinforcediron_8"
+    },
+    "type=9": {
+      "model": "explodables:reinforcediron_9"
+    },
+    "type=10": {
+      "model": "explodables:reinforcediron_10"
+    },
+    "type=11": {
+      "model": "explodables:reinforcediron_11"
+    },
+    "type=12": {
+      "model": "explodables:reinforcediron_12"
+    },
+    "type=13": {
+      "model": "explodables:reinforcediron_13"
+    }
+  }
+}

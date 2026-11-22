@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=up": {
+      "model": "explodables:claymore"
+    },
+    "facing=down": {
+      "model": "explodables:claymore",
+      "x": 180
+    },
+    "facing=north": {
+      "model": "explodables:claymore",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "explodables:claymore",
+      "x": 90,
+      "y": 180
+    },
+    "facing=west": {
+      "model": "explodables:claymore",
+      "x": 90,
+      "y": 270
+    },
+    "facing=east": {
+      "model": "explodables:claymore",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

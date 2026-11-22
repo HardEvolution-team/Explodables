@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "explodables:blocks/spokebomb_side",
+    "up": "explodables:blocks/spokebomb_top",
+    "down": "explodables:blocks/spokebomb_top",
+    "north": "explodables:blocks/spokebomb_side",
+    "south": "explodables:blocks/spokebomb_side",
+    "west": "explodables:blocks/spokebomb_side",
+    "east": "explodables:blocks/spokebomb_side"
+  }
+}

@@ -1,0 +1,26 @@
+# Port-made language file (Explodables port by electrifiedded)
+tile.explodables.explosivesChest.name=Explosives Chest
+container.explodables.explosivesChest=Explosives Chest
+tile.explodables.shapedCharge.name=Shaped Charge
+tile.explodables.blastingGel.name=Blasting Gel
+tile.explodables.blastingGelHE.name=High-Ex Blasting Gel
+tile.explodables.spokeBomb.name=Spoke Bomb
+tile.explodables.reinforcedIron.name=Reinforced Iron
+tile.explodables.plasticExplosive.name=Plastic Explosive
+tile.explodables.doorObsidianBlock.name=Obsidian Door
+tile.explodables.reinforcedGlass.name=Reinforced Glass
+tile.explodables.claymore.name=Claymore Mine
+tile.explodables.claymoreMulti.name=Multi-shot Claymore
+tile.explodables.breachCharge.name=Breaching Charge
+tile.explodables.reinforcedGlassPane.name=Reinforced Glass Pane
+tile.explodables.obsidianButton.name=Obsidian Button
+item.explodables.IBlastingGel.name=Blasting Gel
+item.explodables.IBlastingGelHE.name=High-Ex Blasting Gel
+item.explodables.moltenIron.name=Molten Iron
+item.explodables.scrapIron.name=Scrap Iron
+item.explodables.gelatine.name=Gelatine
+item.explodables.doorObsidian.name=Obsidian Door
+entity.explodables.ShapedChargePrimed.name=Primed Shaped Charge
+entity.explodables.SpokeBombPrimed.name=Primed Spoke Bomb
+entity.explodables.ClaymoreMinePrimed.name=Primed Claymore Mine
+entity.explodables.BreachingChargePrimed.name=Primed Breaching Charge

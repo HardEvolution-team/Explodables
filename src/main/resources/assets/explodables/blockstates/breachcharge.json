@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=up": {
+      "model": "explodables:breachcharge"
+    },
+    "facing=down": {
+      "model": "explodables:breachcharge",
+      "x": 180
+    },
+    "facing=north": {
+      "model": "explodables:breachcharge",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "explodables:breachcharge",
+      "x": 90,
+      "y": 180
+    },
+    "facing=west": {
+      "model": "explodables:breachcharge",
+      "x": 90,
+      "y": 270
+    },
+    "facing=east": {
+      "model": "explodables:breachcharge",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

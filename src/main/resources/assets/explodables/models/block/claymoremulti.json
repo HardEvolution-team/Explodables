@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "explodables:blocks/claymore_side1",
+    "up": "explodables:blocks/claymore_top",
+    "down": "explodables:blocks/claymore_bottom",
+    "north": "explodables:blocks/claymore_side1",
+    "south": "explodables:blocks/claymore_side1",
+    "west": "explodables:blocks/claymore_side2",
+    "east": "explodables:blocks/claymore_side2"
+  }
+}

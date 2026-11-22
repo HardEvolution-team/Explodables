@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "explodables:blocks/breachingcharge_side",
+    "up": "explodables:blocks/breachingcharge_top",
+    "down": "explodables:blocks/breachingcharge_bottom",
+    "north": "explodables:blocks/breachingcharge_side",
+    "south": "explodables:blocks/breachingcharge_side",
+    "west": "explodables:blocks/breachingcharge_side",
+    "east": "explodables:blocks/breachingcharge_side"
+  }
+}

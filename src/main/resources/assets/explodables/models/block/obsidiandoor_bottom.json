@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom",
+  "textures": {
+    "bottom": "explodables:blocks/obsidiandoor_bottom",
+    "top": "explodables:blocks/obsidiandoor_top"
+  }
+}

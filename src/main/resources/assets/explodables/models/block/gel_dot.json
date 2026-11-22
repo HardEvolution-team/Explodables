@@ -1,0 +1,59 @@
+{
+  "ambientocclusion": false,
+  "textures": {
+    "particle": "explodables:blocks/blastinggel_cross",
+    "line": "explodables:blocks/blastinggel_cross",
+    "overlay": "explodables:blocks/blastinggel_cross_overlay"
+  },
+  "elements": [
+    {
+      "from": [
+        5,
+        0.25,
+        5
+      ],
+      "to": [
+        11,
+        0.25,
+        11
+      ],
+      "shade": false,
+      "faces": {
+        "up": {
+          "uv": [
+            5,
+            5,
+            11,
+            11
+          ],
+          "texture": "#line",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "from": [
+        5,
+        0.25,
+        5
+      ],
+      "to": [
+        11,
+        0.25,
+        11
+      ],
+      "shade": false,
+      "faces": {
+        "up": {
+          "uv": [
+            5,
+            5,
+            11,
+            11
+          ],
+          "texture": "#overlay"
+        }
+      }
+    }
+  ]
+}

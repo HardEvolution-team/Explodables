@@ -1,0 +1,8 @@
+{
+  "parent": "block/redstone_side_alt",
+  "textures": {
+    "particle": "explodables:blocks/blastinggel_line",
+    "line": "explodables:blocks/blastinggel_line",
+    "overlay": "explodables:blocks/blastinggel_line_overlay"
+  }
+}

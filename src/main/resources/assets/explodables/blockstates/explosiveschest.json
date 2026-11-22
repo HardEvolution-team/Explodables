@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "explodables:explosiveschest"
+    },
+    "facing=south": {
+      "model": "explodables:explosiveschest"
+    },
+    "facing=west": {
+      "model": "explodables:explosiveschest"
+    },
+    "facing=east": {
+      "model": "explodables:explosiveschest"
+    }
+  }
+}
